@@ -10,7 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.18.3",
+    "bootstrap": "^3.3.7",
     "ejs": "^2.6.1",
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "juery": "^1.0.0",
+    "moment": "^2.23.0",
+    "start": "^5.1.0"
   }
 }
